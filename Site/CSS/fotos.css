@@ -1,0 +1,12 @@
+
+ul#fotos li#foto1 {
+    background: url(../IMG/2.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 500px 500px;
+    background-color: #ffffff;
+
+}
+ul#fotos li#foto1{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
